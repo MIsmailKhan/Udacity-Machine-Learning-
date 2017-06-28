@@ -1,0 +1,7 @@
+Tensorflow:
+
+1.Ran operations in tf.Session.
+2.Created a constant tensor with tf.constant().
+3.Used tf.placeholder() and feed_dict to get input.
+4.Applied the tf.add(), tf.subtract(), tf.multiply(), and tf.divide() functions using numeric data.
+5.Learned about casting between types with tf.cast()
